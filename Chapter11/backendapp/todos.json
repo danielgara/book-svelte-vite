@@ -5,12 +5,12 @@
       "text": "Fetch Kid from Tuition",
       "complete": false,
       "date": "Mon Apr 11 2022",
-      "dateCompleted": false
+      "dateCompleted": "Mon Jul 11 2022"
     },
     {
       "id": "2",
       "text": "Buy Dinner",
-      "complete": true,
+      "complete": false,
       "date": "Mon Apr 11 2022",
       "dateCompleted": "Mon Jul 11 2022"
     }
