@@ -10,9 +10,9 @@
     {
       "id": "2",
       "text": "Buy Dinner",
-      "complete": false,
+      "complete": true,
       "date": "Mon Apr 11 2022",
-      "dateCompleted": false
+      "dateCompleted": "Mon Jul 11 2022"
     }
   ]
 }
